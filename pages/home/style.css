@@ -488,3 +488,27 @@ button:hover {
   .footer__li div {
     margin-right: 10px;
   }
+
+  .footer__flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+  }
+
+  .footer__nav ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .footer__nav {
+    width: 360px;
+    margin: 0 auto;
+  }
+
+  .footer__add {
+    font-weight: 100;
+    font-size: 16px;
+    line-height: 130%;
+    color: #FFFFFF;
+  }
